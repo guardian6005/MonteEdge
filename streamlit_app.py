@@ -76,10 +76,10 @@ st.markdown("""
 
 /* Metric cards polish */
 [data-testid="stMetric"] {
-    background: linear-gradient(135deg, #ffffff 0%, #f6f8fa 100%);
-    border: 1px solid #d0d7de;
+    background: rgba(130, 130, 130, 0.08);
+    border: 1px solid rgba(130, 130, 130, 0.2);
     border-radius: 12px; padding: 16px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
 /* Tag badges (Strategy Explorer) */
@@ -106,10 +106,11 @@ st.markdown("""
     margin: 18px 0;
     box-shadow: 0 2px 8px rgba(234, 179, 8, 0.12);
 }
-.insight-box h3 { margin-top: 0; color: #713f12; }
-
+.insight-box h3 { margin-top: 0; color: #713f12 !important; }
+.insight-box p, .insight-box b, .insight-box i { color: #451a03 !important; }
+            
 /* Section divider */
-hr { margin: 28px 0; border: none; border-top: 1px solid #d0d7de; }
+hr { margin: 28px 0; border: none; border-top: 1px solid rgba(130, 130, 130, 0.2); }
 </style>
 """, unsafe_allow_html=True)
 
