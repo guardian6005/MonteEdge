@@ -224,7 +224,7 @@ st.sidebar.markdown(
 if page.startswith("🏠"):
     st.markdown("""
     <div class="main-header">
-      <h1>📊 Nifty 50 False-Breakout Strategy</h1>
+      <h1>📊 Monte Carlo Simulation on NIFTY 50 Reversal Strategies</h1>
       <p>Monte Carlo validation of a multi-timeframe options setup</p>
     </div>
     """, unsafe_allow_html=True)
