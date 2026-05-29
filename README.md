@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="outputs/charts/07_executive_dashboard.png" alt="MonteEdge Executive Dashboard" width="100%">
-</p>
-
 <h1 align="center">MonteEdge</h1>
 
 <p align="center">
@@ -53,6 +49,10 @@ Applied here to a **Nifty 50 false-breakout reversal strategy** trading weekly o
 
 <p align="center">
   <img src="outputs/charts/monte_carlo_V1_vs_V2.png" alt="Monte Carlo V1 vs V2" width="95%">
+</p>
+
+<p align="center">
+  <img src="outputs/charts/07_executive_dashboard.png" alt="MonteEdge Executive Dashboard" width="100%">
 </p>
 
 <details>
