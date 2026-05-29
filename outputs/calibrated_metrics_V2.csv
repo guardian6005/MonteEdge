@@ -1,0 +1,2 @@
+n_trades,win_rate,avg_win_R,avg_loss_R,rrr_realized,expectancy_R,breakeven_wr,edge_pct,verdict
+24,0.4167,0.993,-0.385,2.58,0.189,0.2795,13.72,✅ POSITIVE EDGE
